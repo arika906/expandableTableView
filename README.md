@@ -27,5 +27,5 @@
 ```
 **Image Assets:**
 
-![Burger](/Desktop/Burger.png)
+![Burger](https://github.com/arika906/expandableTableView/blob/master/Burger.png)
 
