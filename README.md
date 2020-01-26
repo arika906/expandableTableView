@@ -2,13 +2,6 @@
 
 ```diff
 
-### Environment setup
-
-- text in red
-+ text in green
-! text in orange
-# text in gray
-
 + Open an xcode project.
 + Take a table view controller in the main storyboard.
 + Take a table view cell in the table view controller. 
