@@ -28,4 +28,4 @@
 **Image Assets:**
 
 ![Burger](https://github.com/arika906/expandableTableView/blob/master/Burger.png)
-
+![French-fries](https://github.com/arika906/expandableTableView/blob/master/expandableTableView/expandableTableView/Assets.xcassets/French-fries.imageset/French-fries.jpg)
