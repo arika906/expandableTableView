@@ -27,5 +27,5 @@
 ```
 **Image Assets:**
 
-![GitHub Logo](/images/Burger.png)
+![Burger](/images/Burger.png)
 
