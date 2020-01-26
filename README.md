@@ -24,18 +24,8 @@
 
 # tblData.reloadData() is used for reload the data everytime.
 
+```
+**Image Assets:**
 
-Image Assets:
-
-
-
-
-
-
-
-
-
-
-
-
+![GitHub Logo](/images/Burger.png)
 
